@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**Mireu-Lab/Mireu-Lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello :) I'm Mireu, a backend / ML developer who wants to change uncomfortable things creatively!
 
-Here are some ideas to get you started:
+We are working on the project using Python and GoLang.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am interested in AI, so I am preparing projects and papers on the theme of AI.
+
+
+The languages and frameworks I use are as follows! : 
+
+- Python : FastAPI, Flask, Tensorflow / Keras, PyTorch
+- JS/TS : React, Express
+- Go : Echo, Gin
+
+
+
+Use the tool as below! : 
+
+- DataBase : MySQL, MariaDB, MongoDB, Redis, FireBase
+- Server : Debian, RedHat Linux (Fadora, CentOS7)
+- Git : GitHub, GitLab, BitBucket
+
+
+The means of contact with me are as follows! :
+- Email : limmireu1214@gmail.com
+- Instagram : Mireu-Lab
+- Linkdin : [URL](linkedin.com/in/mireu-lim-528064256)
