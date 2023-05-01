@@ -7,6 +7,8 @@ We are working on the project using Python and GoLang.
 Currently, I am interested in AI, so I am preparing projects and papers on the theme of AI.
 
 
+
+
 The languages and frameworks I use are as follows! : 
 
 - Python : FastAPI, Flask, Tensorflow / Keras, PyTorch
@@ -15,11 +17,15 @@ The languages and frameworks I use are as follows! :
 
 
 
+
+
 Use the tool as below! : 
 
 - DataBase : MySQL, MariaDB, MongoDB, Redis, FireBase
 - Server : Debian, RedHat Linux (Fadora, CentOS7)
 - Git : GitHub, GitLab, BitBucket
+
+
 
 
 The means of contact with me are as follows! :
