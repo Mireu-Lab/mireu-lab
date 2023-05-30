@@ -22,7 +22,7 @@ The languages and frameworks I use are as follows! :
 Use the tool as below! : 
 
 - DataBase : MySQL, MariaDB, MongoDB, Redis, FireBase
-- Server : Debian, RedHat Linux (Fadora, CentOS7)
+- Server : Debian, RedHat Linux (Fedora, CentOS7)
 - Git : GitHub, GitLab, Huggingface
 
 
