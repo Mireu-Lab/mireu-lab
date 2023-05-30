@@ -23,7 +23,8 @@ Use the tool as below! :
 
 - DataBase : MySQL, MariaDB, MongoDB, Redis, FireBase
 - Server : Debian, RedHat Linux (Fedora, CentOS7)
-- Git : GitHub, GitLab, BitBucket
+- Git : GitHub, GitLab, Huggingface
+
 
 
 
