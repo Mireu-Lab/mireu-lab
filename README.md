@@ -12,7 +12,7 @@ Currently, I am interested in AI, so I am preparing projects and papers on the t
 The languages and frameworks I use are as follows! : 
 
 - Python : FastAPI, Flask, Tensorflow / Keras, PyTorch
-- JS/TS : React, Express
+- JS/TS : Svelte
 - Go : Echo, Gin
 
 
@@ -21,7 +21,7 @@ The languages and frameworks I use are as follows! :
 
 Use the tool as below! : 
 
-- DataBase : MySQL, MariaDB, MongoDB, Redis, FireBase
+- DataBase : MySQL, MariaDB, MongoDB, Redis, Google FireBase
 - Server : Debian, RedHat Linux (Fedora, CentOS7)
 - Git : GitHub, GitLab, Huggingface
 
@@ -29,6 +29,6 @@ Use the tool as below! :
 
 
 The means of contact with me are as follows! :
-- Email : limmireu1214@gmail.com
+- Email : [limmireu1214@gmail.com](limmireu1214@gmail.com)
 - Instagram : [Mireu-Lab](https://www.instagram.com/mireu_lab/)
 - Linkdin : [URL](linkedin.com/in/mireu-lim-528064256)
