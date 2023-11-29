@@ -30,5 +30,5 @@ Use the tool as below! :
 
 The means of contact with me are as follows! :
 - Email : <limmireu1214@gmail.com>
-- Instagram : [Mireu-Lab](https://www.instagram.com/mireu_lab/)
+- Instagram : [life_mireu](https://www.instagram.com/life_mireu/)
 - Linkdin : [URL](linkedin.com/in/mireu-lim-528064256)
