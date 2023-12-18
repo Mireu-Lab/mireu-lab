@@ -30,5 +30,6 @@ Use the tool as below! :
 
 The means of contact with me are as follows! :
 - Email : <limmireu1214@gmail.com>
+- Scholar : [URL](https://scholar.google.com/citations?hl=en&user=l1TMvnIAAAAJ)
 - Instagram : [life_mireu](https://www.instagram.com/life_mireu/)
 - Linkdin : [URL](linkedin.com/in/mireu-lim-528064256)
